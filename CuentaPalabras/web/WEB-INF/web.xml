@@ -1,0 +1,13 @@
+
+<web-app>
+    <servlet>
+        <servlet-name>PalabrasServlet</servlet-name>
+        <servlet-class>PalabrasServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>PalabrasServlet</servlet-name>
+        <url-pattern>/PalabrasServlet</url-pattern>
+    </servlet-mapping>
+
+</web-app>

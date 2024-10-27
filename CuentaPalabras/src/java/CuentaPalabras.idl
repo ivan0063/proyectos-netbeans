@@ -1,0 +1,5 @@
+module Palabras{
+    interface CuentaPalabras{
+        long cuentaPalabras(in string palabra);
+    };
+};

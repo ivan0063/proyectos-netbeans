@@ -1,0 +1,7 @@
+module Operaciones
+{
+  interface SumaNumeros
+  {
+     long suma(in long x , in long y);
+  };
+};

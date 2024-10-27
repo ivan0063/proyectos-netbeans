@@ -1,0 +1,7 @@
+module Ejemplo
+{
+    interface Consultorio
+    {
+        string agendarConsulta(in string doctor , in string horario);
+    };
+};

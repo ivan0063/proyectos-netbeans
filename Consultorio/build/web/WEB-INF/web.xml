@@ -1,0 +1,13 @@
+
+<web-app>
+    <servlet>
+        <servlet-name>ConsultorioServlet</servlet-name>
+        <servlet-class>ConsultorioServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>ConsultorioServlet</servlet-name>
+        <url-pattern>/ConsultorioServlet</url-pattern>
+    </servlet-mapping>
+
+</web-app>

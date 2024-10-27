@@ -1,0 +1,8 @@
+module Arith{
+    interface Operaciones{
+        double suma(in double x , in double y);
+        double resta(in double x , in double y);
+        double multiplica(in double x , in double y);
+        double divide(in double x , in double y);
+    };
+};

@@ -1,0 +1,13 @@
+
+<web-app>
+    <servlet>
+        <servlet-name>MathServlet</servlet-name>
+        <servlet-class>MathServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>MathServlet</servlet-name>
+        <url-pattern>/MathServlet</url-pattern>
+    </servlet-mapping>
+
+</web-app>
